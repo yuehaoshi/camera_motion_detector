@@ -1,4 +1,4 @@
-# CameraControl
+# Camera Motion Detector
 ## Introduction
 This program is to use the local camera of your laptop to detect the objects difference with time. The captured objects will be detected and shown in a rectengular.
 
